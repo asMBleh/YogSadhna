@@ -1,16 +1,6 @@
-# yogsadhna
+# YogSadhna
 
 A new Flutter application.
+YogSadhna is an Flutter App, created using the Android Studio IDE. It is basically a YogSadhna App In which yoga asan devided into four parts. as per level thier are given yogasan list and details of each asans.here we have given impactful images for all yogasan which will help to do yogasan.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The .apk file of the app is along with this README. Just install the .apk file to use the app.
