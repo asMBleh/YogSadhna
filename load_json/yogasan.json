@@ -1,0 +1,211 @@
+[
+  {
+    "l_name": "Begginner Yoga",
+    "description": "Picture of a computer",
+    "image": "https://s.hanuman.ru/files/imagecache/asana_block1/011_Tadasana_0.jpg",
+    "y_item":
+    [
+      {
+        "title": "Mountain pose",
+        "hindiTitle": "Tadasana",
+        "uniqueName": "mountain",
+        "level": 0,
+        "imageUrl": "https://s.hanuman.ru/files/imagecache/asana_block1/011_Tadasana_0.jpg",
+        "description": "Stand straight with feet joined so that the outside of the feet are parallel. Distribute body weight on the surface of the feet evenly. Tighten your knees, pull up the patella. Pull the stomach up, stretch the spine, straighten the neck.",
+        "warnings": "Do not push your lower back forward. Do not lift your chin. Do not open your toes apart."
+      },
+      {
+        "title": "Butterfly pose",
+        "hindiTitle": "Baddha Konasana",
+        "uniqueName": "butterfly",
+        "level": 1,
+        "imageUrl": "https://s.hanuman.ru/files/imagecache/asana_block1/konasana_0.jpg",
+        "description": "Sit in Dundasana, bend both legs at the knees and move your feet to the groin.Connect the soles and heels, hold the feet with your palms and bring the heels as close to the crotch as possible.Lower your hips to the floor, touch the floor with your knees. Remain in this position for 30-60 seconds, breathe evenly.Over time, increase the execution time.",
+        "warnings": "Baddha Konasana refers to yoga poses, especially beneficial for women.It tones the kidneys, eliminates disorders in the genitourinary system, prevents the appearance of radiculitis and hernia.It facilitates childbirth, prevents varicose veins, strengthens the bladder and uterus."
+      },
+      {
+        "title": "Plow pose",
+        "hindiTitle": "Halasana",
+        "uniqueName": "plug",
+        "level": 1,
+        "imageUrl": "https://s.hanuman.ru/files/imagecache/asana_block1/01_7_0.JPG",
+        "description": "Lie on your back. Straight arms through the sides back and stretch behind the head.With an exhale without the help of hands! Tighten your knees to your chest and roll (not jerkily!) Move your feet over your head. Put the body weight on the shoulder blades,but by no means on the neck! To cling with palms to the feet, pull the heels further back, and the rounded back to the other side.Straighten and stretch your legs. Breathe smoothly, relaxing the lower abdomen and “turning” the hips inward. Stay in the pose for 1 minute,over time, increase the execution time to 3 minutes.",
+        "warnings": "Leaving your legs behind your head, do not use your hands as a lever! Do not rest your body weight on your neck.It’s important to master Halasana gradually! Start with the lite option (see below), then round your back more roundly,leading the heels further behind the head. If you follow the instructions, the back will gradually gain mobility: first in the lower back, then in the chest and,finally in the cervical. If you perform in the  'classic ' version: pushing your hands off the floor, transfer the feet behind the head immediately and dump the entire weightbody on an unprepared neck, you can earn a pinched nerve and displacement of the vertebrae in a few lessons."
+      }
+
+    ]
+  },
+  {
+    "l_name": "Core Yoga",
+    "description": "Picture of a computer",
+    "image": "https://s.hanuman.ru/files/imagecache/asana_block1/virabhadrasana_II_01.JPG",
+    "y_item":
+    [
+      {
+        "title": "Hero Pose 2",
+        "hindiTitle": "Virabhadrasana II",
+        "uniqueName": "hero2",
+        "level": 2,
+        "imageUrl": "https://s.hanuman.ru/files/imagecache/asana_block1/virabhadrasana_II_01.JPG",
+        "description": "To get into Tadasana, with an exhale, spread your legs to a distance of 120-125 cm, turn your right foot to the right, left foot - 60 degrees to the right.Pushing the feet in the floor, bend the front knee. Pull the tailbone down, the pubic bone up (This straightens the lower back and enhances the rotation of the thigh in the hipjoint).Extend your arms to the sides. Pull the crown up, then turn your head to the right. Keep the asana for 30 seconds.(increase the duration over time).",
+        "warnings": "Do not lighten the thigh by lowering the pelvis too low. Do not move your pelvis to the side.Virabhadrasana II belongs to the yoga poses, significantly strengthening the muscles of the legs, back and abdomen.It restores joint mobility, body fat in the waist and abdomen, strengthens the muscular system of the whole body,trains endurance and coordination. The expansion of the lungs contributes to their ventilation and the removal of toxins."
+      }, {
+      "title": "Tilt to the feet",
+      "hindiTitle": "Uttanasana",
+      "uniqueName": "naklon",
+      "level": 2,
+      "imageUrl": "https://s.hanuman.ru/files/imagecache/asana_block1/006_uttanasana_0.jpg",
+      "description": "Stand in Tadasana, exhale lean forward, folding in the hip joints, relaxing your back.Weave the forearms on the back of the head, allow the back and arms to hang freely under their own weight.When this position becomes comfortable, and the palms reach the floor, put your palms on the floor behind your feet, with your fingers forward. Stretch your back after your armstrying to press the base of his hands to the floor. Breathe smoothly and deeply. Hold the pose for at least a minute.",
+      "warnings": "Uttanasana is one of the basic yoga exercises for beginners. She heals abdominal pain tones the liver, spleen and kidneys, relieves menstrual pain. The heartbeat in Uttanasan slows down, the spinal nerves heal.When performed for at least 2 minutes, Uttanasana relieves depression, giving the head calm and sparkle in the eyes. This asana is especially useful.irascible people - it soothes the brain. Uttanasana replaces Shirshasana (headstand) for those to whom its implementation is not yet available."
+    }, {
+      "title": "Cobra pose",
+      "hindiTitle": "Bhujangasana",
+      "uniqueName": "cobra",
+      "level": 2,
+      "imageUrl": "https://s.hanuman.ru/files/imagecache/asana_block1/01_2_0.jpg",
+      "description": "Lie on the floor face down, connect the feet, fingers extended. Put your palms under your shoulders. With a breath, slowly raise the body,without leaning on your hands (hands only fix the accepted position), keeping your hands bent at the elbows. Make two slow breathing cycles and with with the next breath, raise the body even higher, bending in the lower back and chest region of the back. Straighten your arms, stretch your neck and crown upward, directing your chin to your chest.Make two more respiratory cycles, focus in the interbrow, stretch the neck and crown back, increasing the deflection in the thoracic spine.Retract the anus, tighten the buttocks.",
+      "warnings": "Do not raise the pubic bone from the floor. Do not press your shoulders to your ears. Open your chest as much as possible, moving your shoulders and elbows back.Bhujangasana refers to yoga poses that have a significant effect on the hormonal background of the body. Clinical studies showed a decrease in hormones in subjects.stress and an increase in the amount of testosterone - a hormone of pleasure. Cobra pose stimulates the work of the kidneys and adrenal glands, develops flexibility of the spine, is beneficial affecting potency in men and the condition of the pelvic organs in women. By strengthening the muscles of the back, buttocks and arms, the cobra pose helps relieve general fatigue.Ancient texts say that Bhujangasana kindles the inner fire, awakening the power of Kundalini."
+    }, {
+      "title": "Twisting while sitting in a half-nose",
+      "hindiTitle": "Bharadvajasana II",
+      "uniqueName": "spin half lotus",
+      "level": 2,
+      "imageUrl": "",
+      "description": "Sit on your knees and heels, move the pelvis to the floor to the left of the feet. Hold the left foot with your hands and place it on the base of the right thigh - in half-lotus position (Ardha Padmasana). If possible bring the knees closer. Exhale, put your left hand behind your back, bend it at the elbow and grab it with your left foot. Put the right hand on the outer surface of the left thigh near the knee. Inhale, exhale, turn the body to the left, helping yourself with your hands.Place the right hand under the left knee so that the palm rests on the floor and the fingers are turned to the right. Turn the neck to the left (in another version - to the right),looking over your shoulder. Breathe smoothly, with each exhalation, turn the body more to the left. Remain in the pose for 30-60 seconds, then repeat the other way.",
+      "warnings": "Bharadwajasana II refers to yoga exercises for the “intermediate” level. It develops flexibility of the spine, knees and shoulders, and only for people with an elastic spine it is not very effective."
+    }
+
+    ]
+  },
+  {
+    "l_name": "Morning Yoga",
+    "description": "Picture of a computer",
+    "image": "https://s.hanuman.ru/files/imagecache/asana_block1/I_01_.JPG",
+    "y_item":
+    [
+      {
+        "title": "Half moon",
+        "hindiTitle": "Ardhachandrasana",
+        "uniqueName": "half moon",
+        "level": 3,
+        "imageUrl": "https://s.hanuman.ru/files/imagecache/asana_block1/010_ardhachanda_asana_0.jpg",
+        "description": "Put your feet in parallel. Draw an imaginary line along the outer edge of the right foot and at a distance of 15-20 centimeters from the foot, put the right hand (lean on the fingers: the little finger closer to the foot - the thumb on the same line, further from the foot).Holding the left hand on the floor, raise the left leg, straighten it, turn the foot up, turn the pelvis to the left. Take a few breaths.Extend the left hand forward, covering the left ear with the shoulder, turn the palm to the floor. Look to the floor.",
+        "warnings": "Do not turn your pelvis to the floor. Do not raise your hand until you can properly deploy your chest and straighten your support leg. Do not tear the inside of the foot off the floor."
+      }, {
+      "title": "Hero Pose 1",
+      "hindiTitle": "Virabhadrasana I",
+      "uniqueName": "hero1",
+      "level": 3,
+      "imageUrl": "https://s.hanuman.ru/files/imagecache/asana_block1/I_01_.JPG",
+      "description": "Get up in Tadasana, spread your legs, leaving between them a little more than a meter (if convenient - more). Turn body and right fully to the right foot, left foot - 60 degrees to the right. Bending the right leg, push the knee forward, as if pushing the hip out of the joint. Tighten the tailbone, straightening the lower back as far as possible. Pushing the floor with your feet, stretch your arms up and forward. Some schools suggest joining hands.Stretch up, extending arms and back.",
+      "warnings": "Do not wring your neck, do not bend your elbows. With weakened thigh muscles, at the beginning of the development of the posture, you can rest on your hands, leaving them on the floor near the foot. In this case, try not to raise the pelvis. In the most “neglected” cases, it is recommended to substitute under a bent leg a chair and from time to time to rest on it, however, in this case, the effect of the exercise will have to wait."
+    }, {
+      "title": "Birch",
+      "hindiTitle": "Salamba Sarvangasana",
+      "uniqueName": "birch tree",
+      "level": 3,
+      "imageUrl": "https://s.hanuman.ru/files/imagecache/asana_block1/sarvangasana01.jpg",
+      "description": "Lie on the four-fold blanket so that the shoulder blades are on the edge of the blanket, and the head is already on the floor. In this way,the neck does not  break . Extend straight arms behind your head. With an exhale, raise the knees to the chest and roll, without using your hands to move the feet behind the head (Halasana).Move your hands behind your back, rest your elbows on the floor, and, helping yourself with your palms, give the body an upright position. Bend your knees and stretch them up. Stay in the pose for 2-3 minutes, over time increasing the duration. Then return to Halasana, slowly lower your back to the floor - the vertebra behind vertebra, stretch your legs and relax.",
+      "warnings": "When performing Sarvangasana, the throat should not be compressed. Coughing, discomfort in the neck and head indicate that the body weight is placed on the neck (there is excessive compression of the cervical vertebrae on one side and overstretching on the other). In this case, pay more attention to Halasana in order to return flexibility of the lumbar, thoracic, and then the cervical spine. Do not keep your feet apart. Do not bend your knees."
+    }, {
+      "title": "Half boat pose",
+      "hindiTitle": "Ardha Navasana",
+      "uniqueName": "half boat",
+      "level": 3,
+      "imageUrl": "https://s.hanuman.ru/files/imagecache/asana_block1/navasana_01_0_0.JPG",
+      "description": "Sit on the floor on the buttocks with legs bent at the knees. Round the back and press the lower back to the floor, leaving the shoulders and the thoracic back in weight.Stretch straight legs at an angle of 30-35 degrees to the floor, stretch your arms towards your feet. Breathe smoothly.Beginners can hold the pose twice for 5-10 seconds. The average level is 15-20 seconds. The level of practitioners with a “good” press is 1 minute. Advanced level - 3 or more minutes.",
+      "warnings": "The position of the lower back is very important in this exercise. It should be pressed firmly to the floor. Otherwise natural (and especially pathological) lordosis (deflection of the lower back inward) is amplified, creating additional pressure on the vertebrae, which can lead to pinching of the nervefibers. Advanced practices should hold the posture until the abdominal muscles begin to vibrate. Then you need to calm this vibration and continue exercises. Despite the stress, do not do this breath holding exercise!"
+    }, {
+      "title": "Inverted Triangle Pose",
+      "hindiTitle": "Parivritta Trikonasana",
+      "uniqueName": "triangle 2",
+      "level": 3,
+      "imageUrl": "https://s.hanuman.ru/files/imagecache/asana_block1/trikonasana_01.JPG",
+      "description": "Spread your legs about one meter apart, stretch your arms out to the sides (palms turned toward the floor). Expand your right foot fully to the right, left foot - 45 degrees in the same direction. Expand the body and pelvis to the side of the right leg, inhale to extend both sides and exhale to bend to the right foot, placing the left hand on the floor at the outer edge of the right foot. Extend your right hand up. Lengthening the spine and both sides, turn your head up and fix your gaze on the right palm. Hold the pose, maintaining steady breathing for 20-30 seconds, then with a breath, rise and repeat in another side.",
+      "warnings": "Не сгибайте колени. Не уводите таз в сторону. Не отрывайте ступни от пола. Паривритта Триконасана улучшает кровообращение нижней части спины, снимает боли в спине, укрепляет органы брюшной полости и мышцы бедер. Асана с успехом применяется в некоторых случаях ДЦП (под руководством опытного специалиста)."
+    }
+
+    ]
+  },
+  {
+    "l_name": "Yoga Balance",
+    "description": "Picture of a computer",
+    "image": "https://s.hanuman.ru/files/imagecache/asana_block1/mukha_shvanasana_01_0.JPG",
+    "y_item":
+    [
+      {
+        "title": "Full boat pose",
+        "hindiTitle": "Paripurna Navasana",
+        "uniqueName": "full boat",
+        "level": 4,
+        "imageUrl": "https://s.hanuman.ru/files/imagecache/asana_block1/navasana_01.JPG",
+        "description": "Sit on your buttocks, bend your knees and place your feet on the floor. To tilt a straight (!) Back back (approximately 60 degrees above the floor).Raise your legs and straighten them also at an angle of 60 degrees. Next, extend your arms on both sides of the legs parallel to the floor. Breathe steady, hold your pose in for 30 seconds, increasing the duration to 1 minute or more.",
+        "warnings": "Do not round the lower back. Do not press your shoulders to your ears. Do not hold your breath. Paripurna Navasana refers to yoga postures that strengthen muscles abdominals, back and hips. It enhances blood circulation in the abdomen, improves digestion, relieves lower back pain, stimulates the work thyroid gland."
+      }, {
+      "title": "Dog pose face down",
+      "hindiTitle": "Adho Mukha Shwanasana",
+      "uniqueName": "dog facedown",
+      "level": 4,
+      "imageUrl": "https://s.hanuman.ru/files/imagecache/asana_block1/mukha_shvanasana_01_0.JPG",
+      "description": "Get on all fours: palms shoulder-width apart with your fingers forward, knees and feet shoulder-width apart, hips and arms perpendicular to the floor. Bend in the lower back, exhaling, pushing with your hands off the floor, take the buttocks back and up. Stretch your arms, neck, back in a line, trying to increase the inner space in each joint. Straighten your knees, press your heels to the floor. Stay in the pose for 1 minute, after which you can relax in the pose of the child.",
+      "warnings": "Do not reduce the palm rest area! Do not carry the entire weight of the body into your hands! Do not raise your head - otherwise the neck is tense and broken blood flow to the head. Beginners should leave their heels raised for some time, and their knees bent, stretching the tailbone up, unfolding the buttocksout."
+    }, {
+      "title": "Staff pose on four pillars",
+      "hindiTitle": "Chaturanga Dandasana",
+      "uniqueName": "staff",
+      "level": 4,
+      "imageUrl": "https://s.hanuman.ru/files/imagecache/asana_block1/dandasana_01.jpg",
+      "description": "Starting position - inclined emphasis: feet shoulder-width apart, arms shoulder-width apart, the whole body is extended in an inclined line from the heels to the crown.Resting on the floor with the bases of the palms, unfold the elbow joints forward and, pressing the elbows against the body, lower the body lower so that the body is located on four reference points parallel to the floor. Hold in this position with even breathing as much as possible, over time increasing the duration of the execution.",
+      "warnings": "Do not lift your buttocks! Do not lower your lower back. Do not lower your chest below your elbows. Chaturanga Dandasana is one of the main yoga exercises in the complexes for beginners. According to the Yoga Master Andrei Sidersky,Chaturanga Dandasana is the generator of the state of “citta vritti nirodhah” (lack of fuss of the mind), the state from which Patanjali began his famous Yoga Sutras. In addition, this asana strengthens and tones the abdominal organs, arms, legs, upper and lower respiratory tract. Good effect on the children's body. Restores blood circulation after a long working day in a sitting position. Strengthens the abdominal muscles, promotes weight loss."
+    }, {
+      "title": "Locust pose",
+      "hindiTitle": "Shalabhasana",
+      "uniqueName": "locust",
+      "level": 4,
+      "imageUrl": "https://s.hanuman.ru/files/imagecache/asana_block1/01_4_0.JPG",
+      "description": "Lie with your stomach on the floor, stretch your arms back (without touching the floor). With an exhale, raise your head, chest and legs at the same time as high as possible. Squeeze the muscles of the buttocks, fully straighten the legs. Stay in this position for as long as possible, breathe evenly.",
+      "warnings": "Do not wring your neck. Do not place your feet to the sides. Shalabhasana refers to yoga poses that aid digestion.It strengthens the muscles of the back, while developing flexibility of the spine, reduces pain in the sacral and lumbar region, heals the bladder and prostate gland."
+    }, {
+      "title": "Chair pose",
+      "hindiTitle": "Knocked",
+      "uniqueName": "chair",
+      "level": 4,
+      "imageUrl": "https://s.hanuman.ru/files/imagecache/asana_block1/utkatasana_01.jpg",
+      "description": "Get up in Tadasana (feet together). Bending the knees, lower the buttocks down, as if sitting on a chair. Point the tailbone down while pubic bone up to fully straighten the lower back. Stretch your arms above your head parallel to each other, fall even lower while holding back upright if possible. Stay as low as possible for 10-30 seconds, gradually increasing the duration. Breathe smoothly.",
+      "warnings": "Do not push the lower back forward! Do not raise your shoulders. Utkatasana refers to intense yoga poses. It eliminates the stiffness of the shoulders, promotes the uniform development of the muscles of the legs and even corrects minor defects of the legs. The diaphragm in the process of performing Utkatasana rises, slightly massaging the heart. The organs of the abdominal cavity and back are toned, the breast develops, as it expands completely."
+    }, {
+      "title": "Hero Pose 3",
+      "hindiTitle": "Virabhadrasana III",
+      "uniqueName": "hero3",
+      "level": 5,
+      "imageUrl": "https://s.hanuman.ru/files/imagecache/asana_block1/III_01.JPG",
+      "description": "",
+      "warnings": ""
+    }, {
+      "title": "Cow snout pose",
+      "hindiTitle": "Gomukhasana",
+      "uniqueName": "cow face",
+      "level": 5,
+      "imageUrl": "https://s.hanuman.ru/files/imagecache/asana_block1/01_3_.JPG",
+      "description": "Sit on your buttocks, bend your knees. Place the left foot under the right knee and place it to the right of the pelvis so that the knee is left legs were forward. Place the right foot behind the left knee and lay it on the floor on the left side of the pelvis. Knees place one on top of the other. Raise the torso on straightened arms, align the position of the pelvis and lower it down between the heels, distributing the body weight evenly on both sciatica bones. Place your right hand behind your back through the top, and your left hand through the bottom, clasp your palms in the lock. Breathe smoothly, deliberately relaxing the hips and buttocks. Save  pose for 30-60 seconds, then change hands. Repeat the exercise. Next, change the crosshairs and repeat again with each option hand position.",
+      "warnings": "Do not bend your lower back forward. Do not warp the pelvis. Gomukhasana refers to yoga poses that restore mobility to the hip joints, improving blood and lymph flow in pelvic area, healing internal organs. It elasticizes the calf muscles, thighs, and muscles of the shoulder body. It opens the chest, aligns the back."
+    }, {
+      "title": "Warrior Pose",
+      "hindiTitle": "Supta Virasana",
+      "uniqueName": "lying warrior",
+      "level": 5,
+      "imageUrl": "https://s.hanuman.ru/files/imagecache/asana_block1/virasana.jpg",
+      "description": "Sit in Virasana, grab your ankles with your hands. With an exhale, tilt your back back, stretching the spine. Lean on your elbows to bend in the chest, lower the crown of the head to the floor, then stretch the back even further and slide your head back, fully position the back on the floor. Straighten hands next to the legs, take two calm breaths and exhale, extend straight arms behind your head. Hold for 30-60 seconds, breathe evenly. Out of pose carefully! Give your leg time to rest and restore blood supply to the knee joints.",
+      "warnings": "Do not lift your lower back. Do not tighten your neck. Do not raise your knees. Do not relax your palms. Supta Virasana refers to yoga poses, digestive. It stretches the stomach, back and waist, creating lightness in the stomach, relieves lower back pain, has a general stimulating and restorative effect, favorably affects intellectual activity. Recommended for athletes and anyone who has to walk or stand for a long time.on foot."
+    }, {
+      "title": "Lotus position",
+      "hindiTitle": "Podmasana",
+      "uniqueName": "lotus",
+      "level": 6,
+      "imageUrl": "https://s.hanuman.ru/files/imagecache/asana_block1/padmasana.jpg",
+      "description": "Sit on the floor, bend the right leg at the knee, put the right foot on the base of the left thigh so that the heel is on the navel line. Position the left foot as well. Stretch your back up, lower and relax your shoulders.",
+      "warnings": "Do not bend your lower back forward. Do not raise your chin. Padmasana is the main yoga pose for pranayama (the art of breathing control) and meditation. The vertical position of the spine allows you to keep your mind fresh, avoiding lethargy and drowsiness. The position of the legs closes the course energy down, stopping the loss of energy, helping to accumulate it, like water in a lotus cup and direct upwards - to the head. This is called a climb. Kundalini - internal energy necessary for self-awareness (enlightenment). Physiologically, Padmasana increases the mobility of the knees and ankles,tones up the spine and abdominal organs, increasing blood circulation in the abdomen and lower back."
+    }
+    ]
+  }
+]
